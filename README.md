@@ -1,40 +1,24 @@
-Luis Martínez 
-Estudiante de Ingeniería en Sistemas de Telecomunicaciones, enfocado en administración de servidores dedicados, modding para Call of Duty y desarrollo de soluciones prácticas para comunidades de juego.
+# Luis Martínez | Murcia Servers
 
-Fundador de Murcia Servers, un proyecto recién inaugurado orientado a crear y consolidar una comunidad competitiva y bien gestionada dentro del entorno de servidores dedicados, especialmente para Call of Duty.
+Estudiante de Ingeniería en Sistemas de Telecomunicaciones.  
+Fundador de Murcia Servers, un proyecto centrado en la administración de servidores dedicados para Call of Duty y en el desarrollo de herramientas prácticas para su comunidad.
 
-Acerca de mí
-Actualmente compagino mi formación técnica con el desarrollo de proyectos propios relacionados con infraestructura, administración de servidores y scripting. En este proceso, he comenzado a especializarme en la gestión de servidores dedicados para COD y en la creación de scripts en GSC para mejorar la experiencia, automatizar tareas y adaptar los servidores a las necesidades de la comunidad.
+## Focus
+- Administración de servidores dedicados.
+- GSC scripting.
+- Networking e infraestructura.
+- Automatización para comunidades gaming.
 
-El objetivo a medio y largo plazo es seguir creciendo en este sector, perfeccionar conocimientos en networking, sistemas y desarrollo, y posicionar Murcia Servers entre las comunidades más sólidas y reconocibles del panorama.
+## Proyecto destacado
+### Murcia Servers
+Proyecto enfocado en construir y consolidar una comunidad competitiva, estable y bien gestionada dentro del entorno de servidores dedicados.
 
-Áreas de interés
-Administración de servidores dedicados.
+## Stack
+- GSC scripting
+- IW4MAdmin
+- GitHub
+- Discord
+- Windows / Linux
 
-Modding y scripting en GSC.
-
-Infraestructura y networking.
-
-Automatización y herramientas para comunidades gaming.
-
-Desarrollo técnico aplicado a entornos multijugador.
-
-Proyecto destacado
-Murcia Servers
-Proyecto centrado en la construcción y administración de una comunidad propia, con especial atención a la estabilidad del servidor, la moderación, la personalización mediante scripts y la mejora continua del entorno de juego.
-
-Tecnologías y entorno
-GSC scripting
-
-GitHub
-
-IW4MAdmin
-
-Discord
-
-Windows / Linux
-
-Networking y administración de sistemas
-
-Objetivo
-Seguir desarrollando herramientas, mejorar la infraestructura del proyecto y convertir Murcia Servers en una referencia dentro de las comunidades de servidores dedicados para Call of Duty.
+## Objetivo
+Seguir creciendo en administración de servidores, mejorar la infraestructura del proyecto y posicionar Murcia Servers entre las comunidades más sólidas del panorama.
