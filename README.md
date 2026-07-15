@@ -1,7 +1,7 @@
 # Luis Martínez
 
-Soy un chico de 21 años, estudiante de Ingeniería en Sistemas de Telecomunicaciones y un apasionado del gaming.  
-Fundador de Murcia Servers, un proyecto centrado en la administración de servidores dedicados para Call of Duty y en el desarrollo de herramientas prácticas para su comunidad.
+Estudiante de Ingeniería en Sistemas de Telecomunicaciones, enfocado en administración de servidores dedicados, modding para Call of Duty y desarrollo de herramientas prácticas para comunidades de juego.
+Fundador de Murcia Servers, un proyecto orientado a construir y consolidar una comunidad competitiva, estable y bien gestionada.
 
 ## Focus
 - Administración de servidores dedicados.
