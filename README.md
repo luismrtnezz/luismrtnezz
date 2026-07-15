@@ -10,7 +10,7 @@ Fundador de Murcia Servers, un proyecto centrado en la administración de servid
 - Automatización para comunidades gaming.
 
 ## Proyecto destacado
-### [Murcia Servers](http://88.21.162.18:27017/)
+### [Murcia Servers](http://88.21.162.18:27017/)-- Owner & Creator
 Proyecto enfocado en construir y consolidar una comunidad competitiva, estable y bien gestionada dentro del entorno de servidores dedicados.
 
 ## Stack
