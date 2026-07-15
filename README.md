@@ -1,4 +1,4 @@
-# Luis Martínez | Murcia Servers
+# Luis Martínez
 
 Estudiante de Ingeniería en Sistemas de Telecomunicaciones.  
 Fundador de Murcia Servers, un proyecto centrado en la administración de servidores dedicados para Call of Duty y en el desarrollo de herramientas prácticas para su comunidad.
