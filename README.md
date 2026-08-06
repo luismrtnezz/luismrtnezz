@@ -9,7 +9,7 @@ Soy un estudiante de 21 años de España, mezclando telecomunicaciones, gaming y
 - Automatización para comunidades gaming.
 
 ## Proyecto destacado
-### [Murcia Servers]([https://http-murciaservers.es/#home]) — Owner & Creator
+### [Murcia Servers](https://http-murciaservers.es/#home) — Owner & Creator
 - Murcia Servers es un proyecto de servidores dedicados centrado en Call of Duty, la gestión de comunidad y el scripting personalizado. El objetivo es construir una comunidad estable, competitiva y bien organizada, apoyada en herramientas prácticas y mejora continua.
 
 ## Tools
