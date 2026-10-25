@@ -15,8 +15,9 @@ I am a 21-year-old student from Spain with a passion for telecommunications, gam
 ## Tools
 - GSC scripting
 - IW4MAdmin
-- GitHub
+- Github
 - Discord
+- Modding
 - Windows / Linux
 
 ## Objective
